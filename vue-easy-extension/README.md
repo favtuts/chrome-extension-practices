@@ -91,6 +91,16 @@ $ yarn && yarn dev
 ```
 Now, that our app is working properly
 
+
+For build commands:
+```bash
+$ npm build
+$ npm run build
+$ yarn build
+$ yarn run build
+```
+
+
 # Create Extension Manifest file
 
 Create a `manifest.json` inside the `public` folder with this content something like this, also make sure to create/add your `Logo.png` file in the `public` folder. And You can change the content of this` manifest.json` file.
